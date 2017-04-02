@@ -2,8 +2,6 @@
 ##Program ID: server.py
 ##Programming lang: Python 3.5
 ##Date : 03-09-2017
-##Student Name : Mukund Prabhune
-##Student ID : 1001231716
 
 ###import packages
 import socket
