@@ -1,6 +1,3 @@
-Student : Mukund Prabhune
-Studen ID : 1001231716
-Lab1 : Instant messaging System
 
 In a Folder:
 two .py files
